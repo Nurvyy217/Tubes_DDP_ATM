@@ -1,0 +1,35 @@
+Username: hasbi
+No Rekening: 1000013360
+PIN: 2171
+Saldo: 243536
+
+Username: hasbi
+No Rekening: 1000012899
+PIN: 217512
+Saldo: 0
+
+Username: zidan
+No Rekening: 1000010139
+PIN: 6789
+Saldo: 44256
+
+Username: tsinan
+No Rekening: 1000016138
+PIN: 1234
+Saldo: 25000
+
+Username: zidan
+No Rekening: 1000025135
+PIN: 1234
+Saldo: 0
+
+Username: kucing
+No Rekening: 1000011323
+PIN: 1234
+Saldo: 593536
+
+Username: semut
+No Rekening: 1000015706
+PIN: 3456
+Saldo: 400000
+
